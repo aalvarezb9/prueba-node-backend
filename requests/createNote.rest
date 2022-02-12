@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/notes
+Content-Type: application/json
+
+{
+    "nota": "lskdas oasdqoiwd laskdj aslkd",
+    "important": true
+}
